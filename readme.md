@@ -1,6 +1,6 @@
 <h2 align="center">BinaryAD: Efficient Image Anomaly Detection via Binarized Representations</h2>
 
-![Pipeline](assets/figures/pipeline.png)
+![Pipeline](/pipeline.png)
 
 ## Abstract
 
@@ -175,4 +175,5 @@ Refer to the datasets of binaryAD_INP
 ```
 Refer to the run of binaryAD_INP
 ```
+
 
